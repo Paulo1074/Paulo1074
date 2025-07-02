@@ -1,4 +1,4 @@
-# PauloOtvio
+# PauloOtávio
 ### 👋 Olá! Eu sou o Paulo Otávio
 
 - 💻 Estudando **Java** e **React**
@@ -12,4 +12,3 @@
 
 <br>
 
-![Paulo GitHub Stats](https://github-readme-stats.vercel.app/api?username=paulootavio&show_icons=true&theme=radical)
