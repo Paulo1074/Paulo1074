@@ -4,6 +4,9 @@
 🚀 Apaixonado por desenvolvimento e tecnologia  
 🧠 Atualmente aprendendo **Java** e focado em criar projetos práticos
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-ot%C3%A1vio-52297833b/)
+
+
 ## 🧰 Tecnologias que uso
 
 <div style="display: inline_block"><br>
@@ -27,11 +30,6 @@
 ![Paulo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Paulo1074&show_icons=true&theme=tokyonight)
 
 ---
-
-### ✉️ Contato
-
-- 💼 [LinkedIn [LinkedIn](https://www.linkedin.com/in/paulo-ot%C3%A1vio-52297833b/)
-
 ---
 
 
