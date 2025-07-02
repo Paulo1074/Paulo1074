@@ -30,8 +30,7 @@
 
 ### ✉️ Contato
 
-- 💼 [LinkedIn (https://www.linkedin.com/in/paulo-ot%C3%A1vio-52297833b/)(#)
-- 📧 Em breve…
+- 💼 [LinkedIn [LinkedIn](https://www.linkedin.com/in/paulo-ot%C3%A1vio-52297833b/)
 
 ---
 
