@@ -29,7 +29,8 @@
 
 ## 📊 GitHub Stats
 
-![Paulo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Paulo1074&show_icons=true&theme=tokyonight)
+![Paulo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Paulo1074&show_icons=true&theme=dark)
+
 
 ---
 ---
