@@ -26,7 +26,8 @@
 
 ## 🌐 Meu portfólio
 
-🔗 [](https://pauloodev.vercel.app/)
+🔗 Acesse o projeto: [pauloodev.vercel.app](https://pauloodev.vercel.app/)
+
 
 ---
 
