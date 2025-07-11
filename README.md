@@ -26,7 +26,7 @@
 
 ## 🌐 Meu portfólio
 
-🔗 [paulo-ot-vio.vercel.app](https://paulo-ot-vio.vercel.app/)
+🔗 [paulo-ot-vio.vercel.app](https://pauloodev.vercel.app/)
 
 ---
 
