@@ -7,10 +7,11 @@
 
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/pauloodev" target="_blank">
+  <a href="https://www.linkedin.com/in/paulo-ot%C3%A1vio-52297833b/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30"/>
   </a>
 </p>
+
 
 
 
