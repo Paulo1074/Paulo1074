@@ -6,7 +6,12 @@
 
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-ot%C3%A1vio-52297833b/)
+<p align="left">
+  <a href="https://www.linkedin.com/in/pauloodev" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30"/>
+  </a>
+</p>
+
 
 
 ## 🧰 Tecnologias que uso
