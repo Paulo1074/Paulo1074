@@ -6,7 +6,7 @@
 
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-ot%C3%A1vio-52297833b/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-ot%C3%A1vio-52297833b/)
 
 
 ## 🧰 Tecnologias que uso
