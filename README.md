@@ -44,7 +44,7 @@
 ---
 ---
 <p align="center">
-  <img src="assets/batman.png" width="200" alt="Logo do Batman"/>
+  <img src="https://upload.wikimedia.org/wikipedia/en/8/8a/Batman_logo.png" width="200" alt="Logo Batman"/>
 </p>
 
 
