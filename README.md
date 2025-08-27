@@ -35,6 +35,10 @@
 🔗 Acesse o projeto: [pauloodev.vercel.app](https://pauloodev.vercel.app/)
 
 
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/23/Batman_logo.svg" width="200" alt="Logo Batman"/>
+</p>
+
 ---
 
 ## 📊 GitHub Stats
