@@ -43,12 +43,6 @@
 
 ---
 ---
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/en/8/8a/Batman_logo.png" width="200" alt="Logo Batman"/>
-</p>
-
-
-
 
 ###
 
