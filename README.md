@@ -43,8 +43,10 @@
 
 ---
 ---
+<p align="center">
+  <img src="<https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.wallpaperflare.com%2Fdc-batman-logo-batman-begins-bats-black-white-batman-arkham-knight-wallpaper-hxpay&psig=AOvVaw3kGSZv-0tzHNjYOZblXmh1&ust=1756398875263000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCJDbofG1q48DFQAAAAAdAAAAABAE>" width="200" alt="Logo do Batman"/>
+</p>
 
-![Batman](https://upload.wikimedia.org/wikipedia/commons/2/23/Batman_logo.svg)
 
 
 ###
