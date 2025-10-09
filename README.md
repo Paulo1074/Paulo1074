@@ -32,7 +32,7 @@
 
 ## 🌐 Meu portfólio
 
-🔗 Acesse o projeto: [pauloodev.vercel.app](https://pauloodev.vercel.app/)
+🔗 Acesse o Portifólio: [pauloodev.vercel.app](https://pauloodev.vercel.app/)
 
 ---
 
