@@ -2,7 +2,7 @@
 
 🎓 Estudante de **Sistemas de Informação** – 4º período  
 🚀 Apaixonado por desenvolvimento e tecnologia  
-🧠 Atualmente aprendendo **Java** e focado em criar projetos práticos
+
 
 
 
@@ -25,6 +25,7 @@
   <img align="center" alt="Java" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Git" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Node.js" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+   <img align="center" alt="Blazor" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blazor/blazor-original.svg">
 </div>
 
 
