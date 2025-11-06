@@ -1,7 +1,7 @@
 # 👋 Olá! Eu sou o Paulo Otávio
 
 🎓 Estudante de **Sistemas de Informação** – 4º período  
-🚀 Apaixonado por desenvolvimento e tecnologia  
+🚀Desenvolvimento e tecnologia  
 
 
 
